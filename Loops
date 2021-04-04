@@ -1,0 +1,88 @@
+
+
+
+#loop = repeat
+
+
+#while 
+#do while 
+#for 
+
+
+#for 
+
+#even numbers 
+
+for i in range(0,51,2):
+    #print(i)
+    pass
+
+
+for i in range(51,-1,-1):
+   # print(i)
+   pass
+   
+   
+for i in range(0,51):
+   # print(i)
+   pass
+   
+
+
+#while 
+
+j=0
+while(j != 51):
+    print(j)
+    j=j+1
+    
+    
+    
+    
+    
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
